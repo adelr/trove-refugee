@@ -9,7 +9,7 @@ The data comes from the [GLAM Workbench website](https://glam-workbench.github.i
 and represents 12,619 parliamentary press releases harvested and kindly made available by [Tim Sherratt](https://timsherratt.org/).
 
 ### The analysis
-The code `Analysis.ipynb` file is a [Jupyter](https://jupyter.org/) notebook documenting my initial exploration of the data.
+The code `Analyses.ipynb` file is a [Jupyter](https://jupyter.org/) notebook documenting my initial exploration of the data.
 The code is written in Python 3.7.
 
 ### Requirements

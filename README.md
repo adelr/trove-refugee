@@ -15,7 +15,9 @@ The code is written in Python 3.7.
 ### Requirements
 If you are using the [Anaconda distribution](https://www.anaconda.com/distribution/), you can reproduce my virtual environment
 by using the provided  `environment.yml` configuration file. This can be done by running
+```
     conda env create -f environment.yml
+```
 in a terminal.
 
 ### Credits

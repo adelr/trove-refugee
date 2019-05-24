@@ -1,4 +1,4 @@
-name: trove-refugee
+name: trove
 channels:
   - defaults
 dependencies:

@@ -10,7 +10,7 @@ and represents 12,619 parliamentary press releases harvested and kindly made ava
 
 ### The analysis
 The code `Analyses.ipynb` file is a [Jupyter](https://jupyter.org/) notebook documenting my initial exploration of the data.
-The code is written in Python 3.7.
+The code is written in Python 3.7. The notebook can also be viewed [here](https://nbviewer.jupyter.org/github/adelr/trove-refugee/blob/master/Analyses.ipynb).
 
 ### Requirements
 If you are using the [Anaconda distribution](https://www.anaconda.com/distribution/), you can reproduce my virtual environment
